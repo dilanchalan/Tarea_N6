@@ -65,6 +65,12 @@ Seleccionar adecuadamente el modelo matemático para la realización de los ejer
 
 ![25](https://user-images.githubusercontent.com/75336529/127261570-5d7cf6d8-9f9f-4209-8d0d-8d5bbb8afeb5.jpg)
 
+![31](https://user-images.githubusercontent.com/75336529/127267245-69aad938-dbe5-4a1e-bd25-163a96dfe45f.jpg)
+
+![32](https://user-images.githubusercontent.com/75336529/127267273-0a09a341-c086-4bc2-9fd5-05c2e01e984b.jpg)
+
+![33](https://user-images.githubusercontent.com/75336529/127267295-0a3ef8fc-9359-4f2f-9f90-b9c1141546b6.jpg)
+
 ![41](https://user-images.githubusercontent.com/75336529/127261615-2c04033a-eca0-4a7b-bed5-21cd45fdb846.jpg)
 
 ![42](https://user-images.githubusercontent.com/75336529/127261648-3b7b531e-7b72-46ca-bd1a-0b258343e67a.jpg)
